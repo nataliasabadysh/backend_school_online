@@ -1,6 +1,6 @@
 # Backend Intensive
 
-#### Boilerplate repository for Lectrum Backend Intensive.
+#### Boilerplate repository.
 
 ### extra 
 run 
